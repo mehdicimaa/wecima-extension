@@ -1,0 +1,14 @@
+
+{
+  "name": "Wecima Extension",
+  "version": "1.0",
+  "icon": "",
+  "readme": "اضافة wecima لمشاهدة الأفلام والمسلسلات على CloudStream",
+  "plugins": [
+    {
+      "name": "Wecima",
+      "url": "https://github.com/mehdicimaa/wecima-extension/releases/latest/download/WecimaPlugin.cs3",
+      "version": "1.0"
+    }
+  ]
+}
